@@ -1,0 +1,6 @@
+C:\Program Files\Java\mujava\result\Knapsack\traditional_mutants\int_knapsack(int,int,int)\VDL_9\Knapsack.java:13: error: bad operand types for binary operator '||'
+                if (0 || w == 0) {
+                      ^
+  first type:  int
+  second type: boolean
+1 error
